@@ -1,1 +1,0 @@
-Invoke-ps2exe -noConsole -iconFile C:\Users\liang\Downloads\Tonev-Windows-7-Windows-7-system.256.ico C:\Users\liang\Desktop\badusb-screengrab-main\ssgrab.ps1 C:\Users\liang\Desktop\badusb-screengrab-main\WindowsDiensthostEthernet0.exe
